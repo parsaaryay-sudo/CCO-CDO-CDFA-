@@ -1,6 +1,4 @@
 
-#### `app.py`
-```python
 """
 Interactive ATC Classroom Presentation & Flight-Path Simulator
 Covers: CCO, CDO, CDFA, CNS/ATM Integration, Tactical Trade-offs, and Assessment Quiz.
